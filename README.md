@@ -19,3 +19,6 @@ skrebate: 0.62
 numpy: 1.24.4
 pandas: 2.2.2
 shap: 0.47.2
+
+# Please cite
+Reza Kakavand, Nils D. Forkert, Annalise Abbott, et al. "Radiomics-based machine learning to evaluate immunotherapy efficacy in non-small cell lung cancer patients with bone metastases," Journal of Medical Imaging 13(4), 044503 (22 Jul 2026) https://doi.org/10.1117/1.JMI.13.4.044503
